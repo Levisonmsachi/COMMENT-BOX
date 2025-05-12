@@ -2,7 +2,7 @@
 
 A simple comment box application built with HTML, Tailwind CSS, and JavaScript that allows users to post and delete comments.
 
-![Screenshot](https://via.placeholder.com/600x400?text=Mini+Comment+Box+Screenshot) 
+![Screenshot](https://github.com/Levisonmsachi/COMMENT-BOX/blob/main/Screenshot%20(120).png) 
 
 ## Features
 
